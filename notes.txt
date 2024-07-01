@@ -1,0 +1,4 @@
+useEffect -> used for side effects
+clean up function in useEffect
+types of error in js:
+five ways to clone object in js
